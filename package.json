@@ -1,0 +1,12 @@
+{
+  "name": "now-dev-bug-firebase",
+  "version": "1.0.0",
+  "description": "bug of firebase",
+  "main": "index.js",
+  "author": "Markoz Peña Mendez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "firebase-admin": "^7.2.0"
+  }
+}
